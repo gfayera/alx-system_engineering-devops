@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 705 hello
+chmod 442 hello
+chmod 442 hello
